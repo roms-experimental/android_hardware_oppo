@@ -1,0 +1,2 @@
+# Bluetooth
+ro.bluetooth.bt_filter        u:object_r:vendor_bluetooth_prop:s0
